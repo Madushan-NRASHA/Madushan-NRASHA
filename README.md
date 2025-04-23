@@ -16,7 +16,16 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<!-- Option 1: Coding Man GIF -->
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+
+<!-- Option 2: Alternative if Option 1 doesn't work
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+-->
+
+<!-- Option 3: Another alternative
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+-->
 
 👨‍💻 I'm **Madushan Nirasha**, a Full Stack Developer passionate about technology and creativity.  
 🎓 Currently pursuing my degree at **Cardiff Metropolitan University**.  
