@@ -63,8 +63,8 @@
 ```javascript
 const academicJourney = {
   university: "Cardiff Metropolitan University",
-  degree: "Computer Science", // Replace with your actual degree
-  year: "2nd Year", // Update as needed
+  degree: "BSc (Hons) Software Engineering", 
+  year: "2nd Year",
   interests: ["Software Development", "Mobile Apps", "IoT Solutions"],
   projects: [
     "University Projects",
