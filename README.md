@@ -1,59 +1,66 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Madushan+Nirasha;Full+Stack+Developer;Tech+Explorer;Always+Learning...&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Madushan+Nirasha!;Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+Arduino+%7C+Laravel+%7C+MERN;Tech+Explorer+%F0%9F%94%8E;Always+Learning...%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  <b>Welcome to my GitHub!</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
+  <b>Welcome to my digital playground!</b>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-👨‍💻 I'm **Madushan Nirasha**, a Full Stack Developer passionate about technology and creativity.  
-🎯 Always learning and building exciting apps, tools, and projects.  
-🔌 Currently exploring:
+🎓 I’m **Madushan Nirasha**, a passionate full stack developer from 🇱🇰 Sri Lanka.  
+💡 I love turning ideas into real-world applications, especially in **mobile**, **web**, and **IoT** tech.  
+🔥 I thrive in solving challenges and creating beautiful, responsive UIs.
 
-- 📱 **Flutter** for sleek mobile apps  
-- ⚙️ **Arduino** + IoT magic  
-- 🌐 **MERN Stack** for powerful web apps  
-- 🌍 **Laravel** for building APIs  
-- 💻 **Java**, **C++**, and the classics: **HTML**, **CSS**, **JS**
+**Currently mastering:**
+- ⚙️ Microcontrollers & IoT with **Arduino**
+- 📱 App development with **Flutter**
+- 🌐 **MERN Stack** and **Laravel APIs**
+- 🧠 UI/UX with **HTML**, **CSS**, **JavaScript**
+- ☕ Robust programming with **Java**, **C++**
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,arduino,html,css,js,java,cpp,react,nodejs,express,laravel,mysql,firebase,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,arduino,html,css,js,react,nodejs,express,laravel,mysql,firebase,java,cpp,git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madushan-NRASHA&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madushan-NRASHA&theme=radical" width="48%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madushan-NRASHA&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 🧭 Quick Links
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Madushan-NRASHA"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-> 💡 “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+## ✨ Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+> 💬 *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
